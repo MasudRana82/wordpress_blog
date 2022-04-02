@@ -1,0 +1,1323 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "18Holes",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/18holes\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/18holes\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/18holes\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/18holes\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Services",
+            "screenshot": "screenshots\/our-services.jpg",
+            "source": "templates\/our-services.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/18holes\/template-kit\/our-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Facilities",
+            "screenshot": "screenshots\/our-facilities.jpg",
+            "source": "templates\/our-facilities.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/18holes\/template-kit\/our-facilities\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Membership Plan",
+            "screenshot": "screenshots\/membership-plan.jpg",
+            "source": "templates\/membership-plan.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/18holes\/template-kit\/membership-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/18holes\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/18holes\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/18holes\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/18holes\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/18holes\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/18holes\/?elementor_library=404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/18holes\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/18holes\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Popups Banner",
+            "screenshot": "screenshots\/popups-banner.jpg",
+            "source": "templates\/popups-banner.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/18holes\/?elementor_library=popups-banner",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "elementor_pro_conditions": [
+                    "include\/singular\/front_page"
+                ],
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro.",
+                    "This template will display on: Front Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive Post",
+            "screenshot": "screenshots\/archive-post.jpg",
+            "source": "templates\/archive-post.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/18holes\/?elementor_library=archive-post",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.3.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.3.4",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "footer-bg-top.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/footer-bg-top.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 29282,
+            "dimensions": [
+                720,
+                957
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "footer-bg-buttom.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/footer-bg-buttom-800x465.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 53560,
+            "dimensions": [
+                1281,
+                745
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "golf-M8KGYPS.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/golf-M8KGYPS-800x517.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 195251,
+            "dimensions": [
+                2000,
+                1292
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/golf-M8KGYPS"
+        },
+        {
+            "filename": "about-sect.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/about-sect.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 44764,
+            "dimensions": [
+                515,
+                555
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/guy-playing-golf-XUXXZFZ"
+        },
+        {
+            "filename": "vid-about-sec.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/vid-about-sec-800x503.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 59940,
+            "dimensions": [
+                883,
+                555
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/people-playing-golf-A7ZJZC9"
+        },
+        {
+            "filename": "bg-vector.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/bg-vector.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/our-facilities.json",
+                    "name": "Our Facilities"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/archive-post.json",
+                    "name": "Archive Post"
+                }
+            ],
+            "filesize": 48165,
+            "dimensions": [
+                367,
+                272
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "services1.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/services1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 35799,
+            "dimensions": [
+                372,
+                242
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/golf-M8KGYPS"
+        },
+        {
+            "filename": "services2.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/services2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 58134,
+            "dimensions": [
+                372,
+                242
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/golf-ball-and-golf-club-on-artificial-grass-XS3N5Z3"
+        },
+        {
+            "filename": "services3.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/services3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 35731,
+            "dimensions": [
+                372,
+                242
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/golf-putting-training-golf-instructor-with-young-b-YAVSU4K"
+        },
+        {
+            "filename": "services4.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/services4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 45424,
+            "dimensions": [
+                372,
+                242
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-with-battle-rope-in-functional-training-fitnes-PHKZ54Y"
+        },
+        {
+            "filename": "services5.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/services5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 33466,
+            "dimensions": [
+                372,
+                242
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/african-american-golfer-take-a-shot-with-golf-club-4K62TVH"
+        },
+        {
+            "filename": "services6.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/services6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 44204,
+            "dimensions": [
+                372,
+                242
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-professional-golfers-a-woman-and-a-man-go-toge-8RNPEPU"
+        },
+        {
+            "filename": "bg-book-online.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/bg-book-online-800x462.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/our-facilities.json",
+                    "name": "Our Facilities"
+                }
+            ],
+            "filesize": 99164,
+            "dimensions": [
+                1600,
+                924
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/people-playing-golf-FQE8SAA"
+        },
+        {
+            "filename": "noise1.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/noise1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/membership-plan.json",
+                    "name": "Membership Plan"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 78520,
+            "dimensions": [
+                531,
+                394
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "testimoni-sect.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/testimoni-sect.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/membership-plan.json",
+                    "name": "Membership Plan"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 37793,
+            "dimensions": [
+                475,
+                527
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/guy-playing-golf-XUXXZFZ"
+        },
+        {
+            "filename": "hero-aboutus.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/hero-aboutus-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 97234,
+            "dimensions": [
+                1600,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-stylish-friends-on-the-golf-course-learn--T8DPABS"
+        },
+        {
+            "filename": "vid-lightbox.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/vid-lightbox.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 53402,
+            "dimensions": [
+                780,
+                724
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/people-playing-golf-A7ZJZC9"
+        },
+        {
+            "filename": "team1.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/team1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 22923,
+            "dimensions": [
+                372,
+                472
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-business-people-studio-portrait-4V6WUE4"
+        },
+        {
+            "filename": "team2.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/team2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 19776,
+            "dimensions": [
+                372,
+                472
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-business-people-studio-portrait-4V6WUE4"
+        },
+        {
+            "filename": "team3.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/team3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 23706,
+            "dimensions": [
+                372,
+                472
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-business-people-studio-portrait-4V6WUE4"
+        },
+        {
+            "filename": "hero-services.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/hero-services-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 81706,
+            "dimensions": [
+                1600,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/guy-playing-golf-TLPMYW8"
+        },
+        {
+            "filename": "hero-facilities.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/hero-facilities-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-facilities.json",
+                    "name": "Our Facilities"
+                }
+            ],
+            "filesize": 91169,
+            "dimensions": [
+                1600,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/senior-golfer-placing-his-golf-club-bag-onto-a-car-64G2UEM"
+        },
+        {
+            "filename": "facilities1.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/facilities1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-facilities.json",
+                    "name": "Our Facilities"
+                }
+            ],
+            "filesize": 80455,
+            "dimensions": [
+                577,
+                388
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/clothing-store-interior-N5NYEBX"
+        },
+        {
+            "filename": "facilities2.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/facilities2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-facilities.json",
+                    "name": "Our Facilities"
+                }
+            ],
+            "filesize": 71738,
+            "dimensions": [
+                577,
+                388
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/modern-restaurant-bar-or-cafe-interior-PK48F4P"
+        },
+        {
+            "filename": "facilities3.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/facilities3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-facilities.json",
+                    "name": "Our Facilities"
+                }
+            ],
+            "filesize": 69993,
+            "dimensions": [
+                577,
+                388
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/wedding-bouquet-9SXRT28"
+        },
+        {
+            "filename": "hero-membership.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/hero-membership-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/membership-plan.json",
+                    "name": "Membership Plan"
+                }
+            ],
+            "filesize": 91516,
+            "dimensions": [
+                1600,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/greeting-of-buddies-ZVH2SL8"
+        },
+        {
+            "filename": "membership-sect.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/membership-sect.jpg",
+            "templates": [
+                {
+                    "source": "templates\/membership-plan.json",
+                    "name": "Membership Plan"
+                }
+            ],
+            "filesize": 59589,
+            "dimensions": [
+                515,
+                555
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-golf-players-playing-golf-together-at-gol-BMNXBCL"
+        },
+        {
+            "filename": "hero-team.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/hero-team-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 74485,
+            "dimensions": [
+                1600,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/the-golf-cart-with-lovely-couple-walking-near-the--KCJVG86"
+        },
+        {
+            "filename": "staff1.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/staff1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 30373,
+            "dimensions": [
+                372,
+                472
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-professional-player-stands-on-a-golf-course-hold-DEAFCNE"
+        },
+        {
+            "filename": "staff2.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/staff2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 20279,
+            "dimensions": [
+                372,
+                472
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/golfer-S23M226"
+        },
+        {
+            "filename": "staff3.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/staff3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 26283,
+            "dimensions": [
+                372,
+                472
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/golfer-Z4WYPQG"
+        },
+        {
+            "filename": "staff4.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/staff4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 25853,
+            "dimensions": [
+                372,
+                472
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-man-in-sunglasses-holding-golf-club-and-s-A7PYASV"
+        },
+        {
+            "filename": "staff5.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/staff5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 21949,
+            "dimensions": [
+                372,
+                472
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-playing-golf-WMKNWC5"
+        },
+        {
+            "filename": "staff6.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/staff6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 32062,
+            "dimensions": [
+                372,
+                472
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-man-playing-golf-on-a-golf-course-JFB83WH"
+        },
+        {
+            "filename": "hero-testimonials.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/hero-testimonials-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 96442,
+            "dimensions": [
+                1600,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/learning-golf-golf-instructor-with-young-women-on--KXL2ZFL"
+        },
+        {
+            "filename": "testi01.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/testi01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 48534,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multiple-portraits-of-women-and-men-LXJ2NY9"
+        },
+        {
+            "filename": "testi02.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/testi02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 31347,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multiple-portraits-of-women-and-men-LXJ2NY9"
+        },
+        {
+            "filename": "testi03.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/testi03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 38022,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multiple-portraits-of-women-and-men-LXJ2NY9"
+        },
+        {
+            "filename": "testi04.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/testi04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 32367,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multiple-portraits-of-women-and-men-LXJ2NY9"
+        },
+        {
+            "filename": "testi05.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/testi05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 33772,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multiple-portraits-of-women-and-men-LXJ2NY9"
+        },
+        {
+            "filename": "testi06.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/testi06.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 44347,
+            "dimensions": [
+                200,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multiple-portraits-of-women-and-men-LXJ2NY9"
+        },
+        {
+            "filename": "hero-faq.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/hero-faq-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 88169,
+            "dimensions": [
+                1600,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/on-the-golf-course-N55U4FJ"
+        },
+        {
+            "filename": "faq2.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/faq2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 42462,
+            "dimensions": [
+                578,
+                496
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/on-the-golf-course-K58VYPX"
+        },
+        {
+            "filename": "faq1.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/faq1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 42361,
+            "dimensions": [
+                578,
+                668
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/golfer-raising-his-golf-club-854G4ST"
+        },
+        {
+            "filename": "comingsoon18.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/comingsoon18-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming soon"
+                }
+            ],
+            "filesize": 121211,
+            "dimensions": [
+                1600,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/golfball-and-stick-on-green-grass-golf-course-blue-XSF7FF2"
+        },
+        {
+            "filename": "hero-contact.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/hero-contact-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 86239,
+            "dimensions": [
+                1600,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/golf-MDFV6HZ"
+        },
+        {
+            "filename": "bg-404.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/bg-404-800x475.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 98960,
+            "dimensions": [
+                1600,
+                950
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/golf-U2F4GVW"
+        },
+        {
+            "filename": "hero-blog.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/18holes\/wp-content\/uploads\/sites\/25\/2021\/07\/hero-blog-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/archive-post.json",
+                    "name": "Archive Post"
+                }
+            ],
+            "filesize": 79431,
+            "dimensions": [
+                1600,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/golf-8KQ3AUF"
+        }
+    ]
+}
